@@ -1,3 +1,3 @@
 # Robottron project
 
-to view: https://vercel.com/lianaandrade/robotron-project
+to view: https://robotron-project-gamma.vercel.app/
